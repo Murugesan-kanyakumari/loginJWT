@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Murugesan-kanyakumari/loginJWT/issues"
   },
-  "homepage": "https://github.com/Murugesan-kanyakumari/loginJWT#readme"
+  "homepage": "https://github.com/Murugesan-kanyakumari/loginJWT#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3"
+  }
 }

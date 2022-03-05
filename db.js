@@ -10,5 +10,5 @@ const dBConnection = mysql
   .on("error", (err) => {
     console.log("error in db connection :: ", err);
   });
-
+//db
 module.exports = dBConnection;
